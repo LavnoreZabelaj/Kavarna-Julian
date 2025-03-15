@@ -36,7 +36,7 @@ footer span a { color: #FFF; }
 }
 
 .parallax-window {
-    min-height: 1064px;
+    min-height: 100vw;
     background: transparent;
 }
 
